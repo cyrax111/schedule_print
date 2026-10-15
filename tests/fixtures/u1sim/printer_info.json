@@ -1,0 +1,19 @@
+{
+  "body": {
+    "result": {
+      "config_file": "/data/config/printer.cfg",
+      "cpu_info": "u1sim simulated host",
+      "group_id": 0,
+      "hostname": "u1sim",
+      "klipper_path": "/opt/u1-companion",
+      "log_file": "/data/logs/klippy.log",
+      "process_id": 1,
+      "python_path": "/usr/local/bin/python",
+      "software_version": "v0.12.0-u1sim",
+      "state": "ready",
+      "state_message": "Printer is ready",
+      "user_id": 0
+    }
+  },
+  "status": 200
+}

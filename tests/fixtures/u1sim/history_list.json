@@ -1,0 +1,157 @@
+{
+  "body": {
+    "result": {
+      "count": 7,
+      "jobs": [
+        {
+          "auxiliary_data": [],
+          "end_time": 1791984881.9400785,
+          "exists": true,
+          "filament_used": 21.1858,
+          "filename": "schedule-print-test-46e095f5.gcode",
+          "job_id": "000007",
+          "metadata": {
+            "gcode_end_byte": 118,
+            "gcode_start_byte": 73,
+            "modified": 1791984880.628835,
+            "size": 221,
+            "slicer": "Unknown",
+            "uuid": "279074d4-d889-4044-be0c-aa205f673883"
+          },
+          "print_duration": 0.895,
+          "start_time": 1791984880.9250112,
+          "status": "cancelled",
+          "total_duration": 0.895,
+          "user": "_TRUSTED_USER_"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791984825.362016,
+          "exists": true,
+          "filament_used": 18.225,
+          "filename": "schedule-print-test-746dd331.gcode",
+          "job_id": "000006",
+          "metadata": {
+            "gcode_end_byte": 118,
+            "gcode_start_byte": 73,
+            "modified": 1791984824.1181922,
+            "size": 221,
+            "slicer": "Unknown",
+            "uuid": "e75a9490-2f9c-4d26-9040-55cb4c0ee109"
+          },
+          "print_duration": 0.77,
+          "start_time": 1791984824.3480954,
+          "status": "cancelled",
+          "total_duration": 0.77,
+          "user": "_TRUSTED_USER_"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791984823.845345,
+          "exists": true,
+          "filament_used": 20.0617,
+          "filename": "schedule-print-test-455d28b0.gcode",
+          "job_id": "000005",
+          "metadata": {
+            "gcode_end_byte": 118,
+            "gcode_start_byte": 73,
+            "modified": 1791984822.5390232,
+            "size": 221,
+            "slicer": "Unknown",
+            "uuid": "76f4c6d7-8adb-439b-92c0-8076cae03b5b"
+          },
+          "print_duration": 0.848,
+          "start_time": 1791984822.8405313,
+          "status": "cancelled",
+          "total_duration": 0.848,
+          "user": "_TRUSTED_USER_"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791984821.5824564,
+          "exists": true,
+          "filament_used": 19.1426,
+          "filename": "schedule-print-test-818ca141.gcode",
+          "job_id": "000004",
+          "metadata": {
+            "gcode_end_byte": 118,
+            "gcode_start_byte": 73,
+            "modified": 1791984820.366138,
+            "size": 221,
+            "slicer": "Unknown",
+            "uuid": "20572919-57d3-4d93-b716-99dc95950f3b"
+          },
+          "print_duration": 0.809,
+          "start_time": 1791984820.5785422,
+          "status": "cancelled",
+          "total_duration": 0.809,
+          "user": "_TRUSTED_USER_"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791984820.351736,
+          "exists": true,
+          "filament_used": 0.0598,
+          "filename": "schedule-print-test-bfa9bbdd.gcode",
+          "job_id": "000003",
+          "metadata": {
+            "gcode_end_byte": 118,
+            "gcode_start_byte": 73,
+            "modified": 1791984820.1729,
+            "size": 221,
+            "slicer": "Unknown",
+            "uuid": "6836c2e2-0fde-46eb-b560-f34531828c47"
+          },
+          "print_duration": 0.003,
+          "start_time": 1791984820.3213792,
+          "status": "cancelled",
+          "total_duration": 0.003,
+          "user": "_TRUSTED_USER_"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791984819.565629,
+          "exists": true,
+          "filament_used": 18.609,
+          "filename": "schedule-print-test-dd56465f.gcode",
+          "job_id": "000002",
+          "metadata": {
+            "gcode_end_byte": 118,
+            "gcode_start_byte": 73,
+            "modified": 1791984818.375224,
+            "size": 221,
+            "slicer": "Unknown",
+            "uuid": "093e4efc-7f46-42c6-987f-ce59b978fc66"
+          },
+          "print_duration": 0.786,
+          "start_time": 1791984818.5500398,
+          "status": "cancelled",
+          "total_duration": 0.786,
+          "user": "_TRUSTED_USER_"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791984808.7359905,
+          "exists": true,
+          "filament_used": 19.8652,
+          "filename": "schedule-print-test-dcc25e71.gcode",
+          "job_id": "000001",
+          "metadata": {
+            "gcode_end_byte": 118,
+            "gcode_start_byte": 73,
+            "modified": 1791984807.487224,
+            "size": 221,
+            "slicer": "Unknown",
+            "uuid": "3e4d4780-c8f7-4c7f-a94a-05f09637fb22"
+          },
+          "print_duration": 0.839,
+          "start_time": 1791984807.7276962,
+          "status": "cancelled",
+          "total_duration": 0.839,
+          "user": "_TRUSTED_USER_"
+        }
+      ]
+    }
+  },
+  "status": 200
+}

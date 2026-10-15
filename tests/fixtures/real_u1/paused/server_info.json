@@ -1,0 +1,61 @@
+{
+  "body": {
+    "result": {
+      "api_version": [
+        1,
+        4,
+        0
+      ],
+      "api_version_string": "1.4.0",
+      "components": [
+        "secrets",
+        "template",
+        "klippy_connection",
+        "jsonrpc",
+        "internal_transport",
+        "application",
+        "websockets",
+        "database",
+        "dbus_manager",
+        "file_manager",
+        "authorization",
+        "klippy_apis",
+        "shell_command",
+        "machine",
+        "data_store",
+        "proc_stats",
+        "job_state",
+        "job_queue",
+        "history",
+        "http_client",
+        "httpx_client",
+        "announcements",
+        "webcam",
+        "extensions",
+        "octoprint_compat",
+        "repeater",
+        "snapmakercloud",
+        "client_manager",
+        "zeroconf",
+        "mqtt",
+        "exception_manager"
+      ],
+      "failed_components": [],
+      "klippy_connected": true,
+      "klippy_state": "ready",
+      "missing_klippy_requirements": [],
+      "moonraker_version": "1.6.0",
+      "registered_directories": [
+        "config",
+        "logs",
+        "gcodes",
+        "camera"
+      ],
+      "warnings": [],
+      "websocket_count": 1
+    }
+  },
+  "date": "Wed, 14 Oct 2026 19:51:40 GMT",
+  "received_at": 1792007500.2590709,
+  "status": 200
+}

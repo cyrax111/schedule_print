@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<section id="printer">
+  <h2>Printer</h2>
+  {% include "_status.html" %}
+  {% include "_camera.html" %}
+</section>
+{% include "_bed.html" %}
+<section>
+  <h2>Next job</h2>
+  {% if next_job %}
+    <p>{{ next_job.filename }} at {{ next_job.scheduled_at|local }} · <a href="/jobs">all jobs</a></p>
+  {% else %}
+    <p>Nothing scheduled. <a href="/files">Pick a file</a>.</p>
+  {% endif %}
+</section>
+<section>
+  <h2>Notifications</h2>
+  {% for n in notifications %}
+    <p><span class="hint">{{ n.at|local }}</span> {{ n.text }}</p>
+  {% else %}
+    <p class="hint">None yet.</p>
+  {% endfor %}
+  <p><a href="/notifications">All notifications</a></p>
+  {% if telegram_enabled %}
+    <form method="post" action="/telegram/test"><button>Send Telegram test message</button></form>
+  {% endif %}
+</section>
+{% endblock %}

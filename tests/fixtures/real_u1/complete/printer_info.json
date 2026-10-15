@@ -1,0 +1,21 @@
+{
+  "body": {
+    "result": {
+      "config_file": "/home/lava/printer_data/config/printer.cfg",
+      "cpu_info": "4 core ?",
+      "group_id": 1000,
+      "hostname": "lava",
+      "klipper_path": "/home/lava/klipper",
+      "log_file": "/oem/klippylogs/klippy.log",
+      "process_id": 1236,
+      "python_path": "/usr/bin/python3",
+      "software_version": "1.6.0.267_20260815150420",
+      "state": "ready",
+      "state_message": "Printer is ready",
+      "user_id": 1000
+    }
+  },
+  "date": "Wed, 14 Oct 2026 20:26:31 GMT",
+  "received_at": 1792009590.818347,
+  "status": 200
+}

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<section>
+  <h1>Files on the printer</h1>
+  {% if error %}<p class="error">{{ error }}</p>{% endif %}
+  <table>
+    <tr><th></th><th>File</th><th>Print time</th><th>Colours</th><th></th></tr>
+    {% for f in files %}
+    <tr>
+      <td>{% if f.thumbnail %}<img class="thumb" src="/files/thumbnail?path={{ f.thumbnail|urlencode }}" alt="">{% endif %}</td>
+      <td>{{ f.filename }}</td>
+      <td>{{ f.estimated_seconds|duration }}</td>
+      <td>{% for c in f.colours %}<span class="swatch" style="background:#{{ c.rgb or 'cccccc' }}" title="{{ c.material or 'unknown material' }}"></span> {% endfor %}</td>
+      <td><a href="/jobs/new?file={{ f.filename|urlencode }}">Schedule</a></td>
+    </tr>
+    {% else %}
+    <tr><td colspan="5" class="hint">No G-code files on the printer.</td></tr>
+    {% endfor %}
+  </table>
+</section>
+<section>
+  <h2>Upload</h2>
+  <form method="post" action="/files/upload" enctype="multipart/form-data">
+    <input type="file" name="file" accept=".gcode" required>
+    <button>Upload without printing</button>
+  </form>
+  {% if upload_error %}<p class="error">{{ upload_error }}</p>{% endif %}
+</section>
+{% endblock %}

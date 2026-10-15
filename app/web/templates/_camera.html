@@ -1,0 +1,7 @@
+{# Outside the polled status block, so its 2 s refresh doesn't reset the picture. #}
+<div class="camera">
+  <button type="button" id="camera-toggle" aria-pressed="false">Camera on</button>
+  <p class="hint" id="camera-note" hidden></p>
+  <img id="camera-image" alt="Printer camera" hidden>
+</div>
+<script src="/static/camera.js" defer></script>

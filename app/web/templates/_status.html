@@ -1,0 +1,29 @@
+<div id="status" hx-get="/partials/status" hx-trigger="every 2s" hx-swap="outerHTML">
+  {% if not status.online %}
+    <p class="offline">Printer offline</p>
+  {% else %}
+    <p><strong>{{ status.state.value|capitalize }}</strong>
+      {%- if status.filename %} · {{ status.filename }}{% endif %}
+    </p>
+    {% if progress %}
+    <p class="progress"><progress value="{{ progress.percent }}" max="100">{{ progress.percent }}%</progress>
+      <span>{{ progress.percent }}%</span></p>
+    {% if progress.total_layers %}
+    <p>Layer {{ progress.layer if progress.layer is not none else "?" }} of {{ progress.total_layers }}</p>
+    {% endif %}
+    {% if progress.elapsed is not none %}
+    <p>Printing for {{ progress.elapsed|span }}
+      {%- if progress.left is not none %} · {% if progress.left < 60 %}under a minute left{% else %}about {{ progress.left|span }} left{% endif %}{% endif %}
+      {%- if finish %} · done around {{ finish }}{% endif %}</p>
+    {% endif %}
+    {% endif %}
+    <p>Bed {{ temp(status.bed) }}</p>
+    <ul class="heads">
+      {% for head in status.heads %}
+      <li><span class="swatch" style="background:#{{ head.rgb or 'cccccc' }}"></span>
+        Head {{ head.head + 1 }}: {% if head.present %}{{ head.material or "unknown" }}{% else %}empty{% endif %}
+        {%- if status.nozzles|length > head.head %} · {{ temp(status.nozzles[head.head]) }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>

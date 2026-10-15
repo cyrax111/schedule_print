@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+<section>
+  <h1>Upcoming</h1>
+  {% if upcoming %}
+  <table>
+    <tr><th>When</th><th>File</th><th>Heads</th><th></th></tr>
+    {% for job in upcoming %}
+    <tr>
+      <td>{{ job.scheduled_at|local }}</td>
+      <td>{{ job.filename }}</td>
+      <td>{% for a in job.head_map %}<span class="swatch" style="background:#{{ a.expected_rgb or 'cccccc' }}"></span> Head {{ a.head + 1 }} {% endfor %}</td>
+      <td><a href="/jobs/{{ job.id }}/edit">Change</a>
+        <form method="post" action="/jobs/{{ job.id }}/cancel" class="inline"><button class="link">Cancel</button></form></td>
+    </tr>
+    {% endfor %}
+  </table>
+  {% else %}
+  <p>Nothing scheduled. <a href="/files">Pick a file</a>.</p>
+  {% endif %}
+</section>
+<section>
+  <h2>History</h2>
+  {% if finished %}
+  <table>
+    <tr><th>When</th><th>File</th><th>Result</th><th>Decided</th></tr>
+    {% for job in finished %}
+    <tr><td>{{ job.scheduled_at|local }}</td><td>{{ job.filename }}</td>
+      <td>{{ job.status.value }}{% if job.outcome_reason %}: {{ job.outcome_reason }}{% endif %}</td>
+      <td>{{ job.decided_at|local }}</td></tr>
+    {% endfor %}
+  </table>
+  {% else %}
+  <p class="hint">No finished jobs yet.</p>
+  {% endif %}
+</section>
+{% endblock %}

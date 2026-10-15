@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<section>
+  <h1>Notifications</h1>
+  <form method="post" action="/notifications/read-all"><button>Mark all read</button></form>
+  {% for n in notifications %}
+    <p>{% if not n.read %}<strong>{% endif %}<span class="hint">{{ n.at|local }}</span> {{ n.text }}{% if not n.read %}</strong>{% endif %}
+      {% if n.telegram_status == "failed" %}<br><span class="error">Telegram: not delivered ({{ n.telegram_error }})</span>{% endif %}</p>
+  {% else %}
+    <p class="hint">None yet.</p>
+  {% endfor %}
+</section>
+{% endblock %}

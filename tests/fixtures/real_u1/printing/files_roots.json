@@ -1,0 +1,29 @@
+{
+  "body": {
+    "result": [
+      {
+        "name": "config",
+        "path": "/oem/printer_data/config",
+        "permissions": "rw"
+      },
+      {
+        "name": "logs",
+        "path": "/userdata/logs",
+        "permissions": "r"
+      },
+      {
+        "name": "gcodes",
+        "path": "/userdata/gcodes",
+        "permissions": "rw"
+      },
+      {
+        "name": "camera",
+        "path": "/oem/printer_data/camera",
+        "permissions": "r"
+      }
+    ]
+  },
+  "date": "Wed, 14 Oct 2026 19:49:56 GMT",
+  "received_at": 1792007396.506043,
+  "status": 200
+}

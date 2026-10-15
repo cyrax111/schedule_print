@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}Log in · Schedule Print{% endblock %}
+{% block content %}
+<section>
+  <h1>Schedule Print</h1>
+  <form method="post" action="/login">
+    <label>Password <input type="password" name="password" autofocus required></label>
+    <button>Log in</button>
+  </form>
+  {% if error %}<p class="error">{{ error }}</p>{% endif %}
+</section>
+{% endblock %}

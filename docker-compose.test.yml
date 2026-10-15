@@ -1,0 +1,6 @@
+# Fake U1 for integration tests: u1sim + Snapmaker's real Moonraker fork.
+# Start with scripts/sim-up.sh; Moonraker then answers on localhost:7125.
+# Own project name, so `down` never touches the app's docker-compose.yml project.
+name: schedule-print-u1sim
+include:
+  - path: vendor/u1-companion/docker-compose.yml

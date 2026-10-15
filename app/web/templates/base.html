@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Schedule Print{% endblock %}</title>
+  <link rel="stylesheet" href="/static/app.css">
+  <script src="/static/htmx.min.js" defer></script>
+</head>
+<body>
+  {% if logged_in %}
+  <header>
+    <nav>
+      <a href="/">Printer</a>
+      <a href="/files">Files</a>
+      <a href="/jobs">Jobs</a>
+      <a href="/notifications">Notifications{% if unread %} <span class="badge">{{ unread }}</span>{% endif %}</a>
+      <form method="post" action="/logout" class="inline"><button class="link">Log out</button></form>
+    </nav>
+  </header>
+  {% endif %}
+  <main>{% block content %}{% endblock %}</main>
+</body>
+</html>

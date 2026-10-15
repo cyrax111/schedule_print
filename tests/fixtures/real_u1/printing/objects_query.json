@@ -1,0 +1,575 @@
+{
+  "body": {
+    "result": {
+      "eventtime": 3577.659002872,
+      "status": {
+        "exception_manager": {
+          "exceptions": []
+        },
+        "extruder": {
+          "activating_move": false,
+          "active_pin": false,
+          "can_extrude": false,
+          "error_count": 0,
+          "extruder_index": 0,
+          "extruder_offset": [
+            0.23327532609252266,
+            0.042142972367742004,
+            0.0
+          ],
+          "grab_valid_pin": false,
+          "last_maintenance_count": 0,
+          "motion_queue": null,
+          "nozzle_diameter": 0.4,
+          "nozzle_volume_type": "standard",
+          "park_pin": true,
+          "power": 0.0,
+          "pressure_advance": 0.02,
+          "printing_e_pos": 0,
+          "real_extruder_stats": [
+            "extruder3",
+            0
+          ],
+          "retry_count": 0,
+          "smooth_time": 0.04,
+          "state": "PARKED",
+          "switch_count": 320,
+          "target": 0.0,
+          "temperature": 28.0
+        },
+        "extruder1": {
+          "activating_move": false,
+          "active_pin": false,
+          "can_extrude": false,
+          "error_count": 0,
+          "extruder_index": 1,
+          "extruder_offset": [
+            -0.05361436059517111,
+            -0.08444113042773438,
+            -0.16133333333059685
+          ],
+          "grab_valid_pin": false,
+          "last_maintenance_count": 0,
+          "motion_queue": null,
+          "nozzle_diameter": 0.4,
+          "nozzle_volume_type": "standard",
+          "park_pin": true,
+          "power": 0.0,
+          "pressure_advance": 0.023189,
+          "printing_e_pos": 0.0,
+          "real_extruder_stats": [
+            "extruder3",
+            0
+          ],
+          "retry_count": 0,
+          "smooth_time": 0.04,
+          "state": "PARKED",
+          "switch_count": 378,
+          "target": 0.0,
+          "temperature": 28.0
+        },
+        "extruder2": {
+          "activating_move": false,
+          "active_pin": false,
+          "can_extrude": false,
+          "error_count": 0,
+          "extruder_index": 2,
+          "extruder_offset": [
+            -0.14617558341903703,
+            0.0844411304277628,
+            -0.04466666666132557
+          ],
+          "grab_valid_pin": false,
+          "last_maintenance_count": 0,
+          "motion_queue": null,
+          "nozzle_diameter": 0.4,
+          "nozzle_volume_type": "standard",
+          "park_pin": true,
+          "power": 0.0,
+          "pressure_advance": 0.024576,
+          "printing_e_pos": 0.0,
+          "real_extruder_stats": [
+            "extruder3",
+            0
+          ],
+          "retry_count": 0,
+          "smooth_time": 0.04,
+          "state": "PARKED",
+          "switch_count": 335,
+          "target": 0.0,
+          "temperature": 29.0
+        },
+        "extruder3": {
+          "activating_move": false,
+          "active_pin": true,
+          "can_extrude": true,
+          "error_count": 0,
+          "extruder_index": 3,
+          "extruder_offset": [
+            -0.23327532609252266,
+            -0.02164426740404224,
+            7.832401394125554e-12
+          ],
+          "grab_valid_pin": true,
+          "last_maintenance_count": 0,
+          "motion_queue": null,
+          "nozzle_diameter": 0.4,
+          "nozzle_volume_type": "standard",
+          "park_pin": false,
+          "power": 0.4154149054200327,
+          "pressure_advance": 0.02,
+          "printing_e_pos": 0,
+          "real_extruder_stats": [
+            "extruder3",
+            0
+          ],
+          "retry_count": 0,
+          "smooth_time": 0.04,
+          "state": "ACTIVATE",
+          "switch_count": 425,
+          "target": 220.0,
+          "temperature": 220.0
+        },
+        "filament_detect": {
+          "config": {
+            "startup_stay": false
+          },
+          "info": [
+            {
+              "ALPHA": 255,
+              "ARGB_COLOR": 4294967295,
+              "BED_TEMP": 0,
+              "BED_TYPE": 0,
+              "CARD_UID": 0,
+              "COLOR_NUMS": 1,
+              "DIAMETER": 0,
+              "DRYING_TEMP": 0,
+              "DRYING_TIME": 0,
+              "FIRST_LAYER_TEMP": 0,
+              "HOTEND_MAX_TEMP": 0,
+              "HOTEND_MIN_TEMP": 0,
+              "LENGTH": 0,
+              "MAIN_TYPE": "NONE",
+              "MANUFACTURER": "NONE",
+              "MF_DATE": "19700101",
+              "MULTI_MODE": 0,
+              "OFFICIAL": false,
+              "OTHER_LAYER_TEMP": 0,
+              "RGB_1": 16777215,
+              "RGB_2": 16777215,
+              "RGB_3": 16777215,
+              "RGB_4": 16777215,
+              "RGB_5": 16777215,
+              "RSA_KEY_VERSION": 0,
+              "SKU": 0,
+              "SUB_TYPE": "NONE",
+              "TRAY": 0,
+              "VENDOR": "NONE",
+              "VERSION": 0,
+              "WEIGHT": 0
+            },
+            {
+              "ALPHA": 255,
+              "ARGB_COLOR": 4294967295,
+              "BED_TEMP": 0,
+              "BED_TYPE": 0,
+              "CARD_UID": 0,
+              "COLOR_NUMS": 1,
+              "DIAMETER": 0,
+              "DRYING_TEMP": 0,
+              "DRYING_TIME": 0,
+              "FIRST_LAYER_TEMP": 0,
+              "HOTEND_MAX_TEMP": 0,
+              "HOTEND_MIN_TEMP": 0,
+              "LENGTH": 0,
+              "MAIN_TYPE": "NONE",
+              "MANUFACTURER": "NONE",
+              "MF_DATE": "19700101",
+              "MULTI_MODE": 0,
+              "OFFICIAL": false,
+              "OTHER_LAYER_TEMP": 0,
+              "RGB_1": 16777215,
+              "RGB_2": 16777215,
+              "RGB_3": 16777215,
+              "RGB_4": 16777215,
+              "RGB_5": 16777215,
+              "RSA_KEY_VERSION": 0,
+              "SKU": 0,
+              "SUB_TYPE": "NONE",
+              "TRAY": 0,
+              "VENDOR": "NONE",
+              "VERSION": 0,
+              "WEIGHT": 0
+            },
+            {
+              "ALPHA": 255,
+              "ARGB_COLOR": 4294967295,
+              "BED_TEMP": 0,
+              "BED_TYPE": 0,
+              "CARD_UID": 0,
+              "COLOR_NUMS": 1,
+              "DIAMETER": 0,
+              "DRYING_TEMP": 0,
+              "DRYING_TIME": 0,
+              "FIRST_LAYER_TEMP": 0,
+              "HOTEND_MAX_TEMP": 0,
+              "HOTEND_MIN_TEMP": 0,
+              "LENGTH": 0,
+              "MAIN_TYPE": "NONE",
+              "MANUFACTURER": "NONE",
+              "MF_DATE": "19700101",
+              "MULTI_MODE": 0,
+              "OFFICIAL": false,
+              "OTHER_LAYER_TEMP": 0,
+              "RGB_1": 16777215,
+              "RGB_2": 16777215,
+              "RGB_3": 16777215,
+              "RGB_4": 16777215,
+              "RGB_5": 16777215,
+              "RSA_KEY_VERSION": 0,
+              "SKU": 0,
+              "SUB_TYPE": "NONE",
+              "TRAY": 0,
+              "VENDOR": "NONE",
+              "VERSION": 0,
+              "WEIGHT": 0
+            },
+            {
+              "ALPHA": 255,
+              "ARGB_COLOR": 4294230066,
+              "BED_TEMP": 60,
+              "BED_TYPE": 1,
+              "CARD_UID": [
+                80,
+                87,
+                136,
+                106
+              ],
+              "COLOR_NUMS": 1,
+              "DIAMETER": 175,
+              "DRYING_TEMP": 55,
+              "DRYING_TIME": 6,
+              "FIRST_LAYER_TEMP": 230,
+              "HOTEND_MAX_TEMP": 230,
+              "HOTEND_MIN_TEMP": 190,
+              "LENGTH": 150,
+              "MAIN_TYPE": "PLA",
+              "MANUFACTURER": "Polymaker",
+              "MF_DATE": "19700101",
+              "MULTI_MODE": 0,
+              "OFFICIAL": true,
+              "OTHER_LAYER_TEMP": 220,
+              "RGB_1": 16039986,
+              "RGB_2": 0,
+              "RGB_3": 0,
+              "RGB_4": 0,
+              "RGB_5": 0,
+              "RSA_KEY_VERSION": 0,
+              "SKU": 900003,
+              "SUB_TYPE": "SnapSpeed",
+              "TRAY": 0,
+              "VENDOR": "Snapmaker",
+              "VERSION": 1,
+              "WEIGHT": 500
+            }
+          ],
+          "state": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "heater_bed": {
+          "power": 0.045019365057925774,
+          "target": 65.0,
+          "temperature": 65.0
+        },
+        "machine_state_manager": {
+          "action_code": 0,
+          "main_state": 1
+        },
+        "pause_resume": {
+          "is_paused": false
+        },
+        "print_stats": {
+          "exception": {},
+          "filament_used": 33.161659999999955,
+          "filename": "Rubber Plane 2_PLA_27m9s.gcode",
+          "info": {
+            "current_layer": 1,
+            "total_layer": 37
+          },
+          "message": "",
+          "print_duration": 42.71088327000007,
+          "state": "printing",
+          "total_duration": 260.5140254570001
+        },
+        "print_task_config": {
+          "auto_bed_leveling": false,
+          "auto_replenish_filament": true,
+          "end_led_turn_off": true,
+          "end_unload_filament": [
+            false,
+            false,
+            false,
+            false
+          ],
+          "extruder_map_table": [
+            3,
+            1,
+            2,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "extruders_replenished": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "extruders_used": [
+            false,
+            false,
+            false,
+            true
+          ],
+          "filament_color": [
+            4278190080,
+            4294967295,
+            4294269564,
+            4294230066
+          ],
+          "filament_color_multi": [
+            {
+              "alpha": 255,
+              "colors": [
+                "000000"
+              ],
+              "mode": 0,
+              "nums": 1
+            },
+            {
+              "alpha": 255,
+              "colors": [
+                "FFFFFF"
+              ],
+              "mode": 0,
+              "nums": 1
+            },
+            {
+              "alpha": 255,
+              "colors": [
+                "F55A7C"
+              ],
+              "mode": 0,
+              "nums": 1
+            },
+            {
+              "alpha": 255,
+              "colors": [
+                "F4C032"
+              ],
+              "mode": 0,
+              "nums": 1
+            }
+          ],
+          "filament_color_rgba": [
+            "000000FF",
+            "FFFFFFFF",
+            "F55A7CFF",
+            "F4C032FF"
+          ],
+          "filament_edit": [
+            true,
+            true,
+            true,
+            false
+          ],
+          "filament_entangle_detect": true,
+          "filament_entangle_sen": "medium",
+          "filament_exist": [
+            true,
+            true,
+            true,
+            true
+          ],
+          "filament_official": [
+            false,
+            false,
+            false,
+            true
+          ],
+          "filament_sku": [
+            0,
+            0,
+            0,
+            900003
+          ],
+          "filament_soft": [
+            false,
+            false,
+            false,
+            false
+          ],
+          "filament_sub_type": [
+            "",
+            "",
+            "",
+            "SnapSpeed"
+          ],
+          "filament_type": [
+            "PLA",
+            "PETG",
+            "PETG",
+            "PLA"
+          ],
+          "filament_vendor": [
+            "Generic",
+            "Generic",
+            "Generic",
+            "Snapmaker"
+          ],
+          "flow_calib_extruders": [
+            true,
+            true,
+            true,
+            true
+          ],
+          "flow_calibrate": false,
+          "replenish_ignore_color": false,
+          "reprint_info": {
+            "auto_bed_leveling": false,
+            "end_unload_filament": [
+              false,
+              false,
+              false,
+              false
+            ],
+            "extruder_map_table": [
+              3,
+              1,
+              2,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "extruders_used": [
+              false,
+              false,
+              false,
+              true
+            ],
+            "flow_calib_extruders": [
+              true,
+              true,
+              true,
+              true
+            ],
+            "flow_calibrate": false,
+            "time_lapse_camera": false
+          },
+          "shaper_calibrate": false,
+          "time_lapse_camera": false
+        },
+        "toolhead": {
+          "axis_maximum": [
+            271.0,
+            335.0,
+            275.0,
+            0.0
+          ],
+          "axis_minimum": [
+            0.0,
+            0.0,
+            -6.0,
+            0.0
+          ],
+          "estimated_print_time": 3563.8373966,
+          "extruder": "extruder3",
+          "homed_axes": "xyz",
+          "max_accel": 500.0,
+          "max_velocity": 500.0,
+          "minimum_cruise_ratio": 0.5,
+          "position": [
+            206.56772467390746,
+            212.85535573259597,
+            0.19597788593545756,
+            33.771119999999954
+          ],
+          "print_time": 3565.91719770932,
+          "square_corner_velocity": 8.0,
+          "stalls": 0
+        },
+        "virtual_sdcard": {
+          "file_path": "/home/lava/printer_data/gcodes/Rubber Plane 2_PLA_27m9s.gcode",
+          "file_position": 29702,
+          "file_size": 2337673,
+          "is_active": true,
+          "pl_env_valid": false,
+          "progress": 0.012705797603000933
+        },
+        "webhooks": {
+          "state": "ready",
+          "state_message": "Printer is ready"
+        }
+      }
+    }
+  },
+  "date": "Wed, 14 Oct 2026 19:49:56 GMT",
+  "received_at": 1792007396.497696,
+  "status": 200
+}

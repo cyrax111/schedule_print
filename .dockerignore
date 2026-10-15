@@ -1,0 +1,12 @@
+# Keep secrets, local state and bulky folders out of the build context.
+.env
+data/
+.venv/
+vendor/
+raw/
+.git/
+.superpowers/
+tests/fixtures/real_u1/
+**/__pycache__/
+*.egg-info/
+.pytest_cache/

@@ -1,0 +1,2402 @@
+[
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0,
+    "state": "printing",
+    "t": 0.3
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 1.3
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 2.6
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 3.8
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 5.1
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 6.4
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 7.6
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 8.9
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 10.1
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 11.4
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 12.6
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 13.9
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 15.1
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 16.4
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 17.6
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 18.9
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 20.1
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06674895087632683,
+    "state": "printing",
+    "t": 21.4
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06688060561178309,
+    "state": "printing",
+    "t": 22.6
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06790092981156916,
+    "state": "printing",
+    "t": 23.9
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06790092981156916,
+    "state": "printing",
+    "t": 25.0
+  },
+  {
+    "active_extruder": "extruder3",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.06790092981156916,
+    "state": "printing",
+    "t": 26.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 27.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 28.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 30.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 31.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 32.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 33.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 35.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 36.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 37.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 38.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 40.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 41.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 42.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 43.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 45.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 46.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 47.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 48.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 50.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 51.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 52.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 53.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 55.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 56.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 57.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 58.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 60.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 61.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 62.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 63.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 65.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 66.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 67.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 68.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 70.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 71.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 72.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 73.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 75.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 76.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 77.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 78.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 80.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 81.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 82.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 84.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 85.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 86.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 87.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 88.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 90.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 91.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 92.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0680161277050934,
+    "state": "printing",
+    "t": 93.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0795030033736526,
+    "state": "printing",
+    "t": 95.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0795030033736526,
+    "state": "printing",
+    "t": 96.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08006253599934172,
+    "state": "printing",
+    "t": 97.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08006253599934172,
+    "state": "printing",
+    "t": 98.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08006253599934172,
+    "state": "printing",
+    "t": 99.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08006253599934172,
+    "state": "printing",
+    "t": 101.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08006253599934172,
+    "state": "printing",
+    "t": 102.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08006253599934172,
+    "state": "printing",
+    "t": 103.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08083600757014729,
+    "state": "printing",
+    "t": 105.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08083600757014729,
+    "state": "printing",
+    "t": 106.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08083600757014729,
+    "state": "printing",
+    "t": 107.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 108.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 110.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 111.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 112.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 113.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 115.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 116.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 117.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 118.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 120.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08139554019583642,
+    "state": "printing",
+    "t": 121.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 122.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 123.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 125.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 126.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 127.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 128.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 130.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 131.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 132.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 133.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08230066650209825,
+    "state": "printing",
+    "t": 135.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08360075701472887,
+    "state": "printing",
+    "t": 136.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 137.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 138.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 140.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 141.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 142.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 143.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 145.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 146.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 147.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08416028964041801,
+    "state": "printing",
+    "t": 148.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08467045174031103,
+    "state": "printing",
+    "t": 150.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08522998436600017,
+    "state": "printing",
+    "t": 151.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08522998436600017,
+    "state": "printing",
+    "t": 152.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08522998436600017,
+    "state": "printing",
+    "t": 153.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08606928330453387,
+    "state": "printing",
+    "t": 155.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08606928330453387,
+    "state": "printing",
+    "t": 156.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08606928330453387,
+    "state": "printing",
+    "t": 157.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0869744096107957,
+    "state": "printing",
+    "t": 158.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.0869744096107957,
+    "state": "printing",
+    "t": 160.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08753394223648482,
+    "state": "printing",
+    "t": 161.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08753394223648482,
+    "state": "printing",
+    "t": 162.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08753394223648482,
+    "state": "printing",
+    "t": 164.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 165.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 166.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 167.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 169.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 170.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 171.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 172.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 174.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 175.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 176.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 177.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.08875174853945528,
+    "state": "printing",
+    "t": 179.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 180.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 181.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 182.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 184.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 185.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 186.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 187.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 189.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 190.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 191.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 192.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 194.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 195.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 196.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 197.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 199.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.09339257796428865,
+    "state": "printing",
+    "t": 200.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 201.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 202.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 204.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 205.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 206.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 207.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 209.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 210.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 211.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 212.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 214.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 215.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 216.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 217.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 219.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11449024932115527,
+    "state": "printing",
+    "t": 220.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11501686826298034,
+    "state": "printing",
+    "t": 221.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11501686826298034,
+    "state": "printing",
+    "t": 222.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11501686826298034,
+    "state": "printing",
+    "t": 224.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11501686826298034,
+    "state": "printing",
+    "t": 225.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11501686826298034,
+    "state": "printing",
+    "t": 226.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11501686826298034,
+    "state": "printing",
+    "t": 227.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11501686826298034,
+    "state": "printing",
+    "t": 229.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11501686826298034,
+    "state": "printing",
+    "t": 230.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.11501686826298034,
+    "state": "printing",
+    "t": 231.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.1152966345758249,
+    "state": "printing",
+    "t": 232.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.1152966345758249,
+    "state": "printing",
+    "t": 234.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.1152966345758249,
+    "state": "printing",
+    "t": 235.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.1152966345758249,
+    "state": "printing",
+    "t": 236.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.1152966345758249,
+    "state": "printing",
+    "t": 237.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.13254340492059574,
+    "state": "printing",
+    "t": 239.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.13606516909405086,
+    "state": "printing",
+    "t": 240.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.1435201184892619,
+    "state": "printing",
+    "t": 241.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.14704188266271703,
+    "state": "printing",
+    "t": 242.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.15512219205134534,
+    "state": "printing",
+    "t": 244.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.16201760882086727,
+    "state": "printing",
+    "t": 245.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.16545708878466223,
+    "state": "printing",
+    "t": 246.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.1713321813543981,
+    "state": "printing",
+    "t": 247.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.17626923393400806,
+    "state": "printing",
+    "t": 249.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.18091006335884144,
+    "state": "printing",
+    "t": 250.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.18255574755204476,
+    "state": "printing",
+    "t": 251.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.18469513700320908,
+    "state": "printing",
+    "t": 252.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.18566609067719905,
+    "state": "printing",
+    "t": 254.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.18686744013823747,
+    "state": "printing",
+    "t": 255.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.1936641158561672,
+    "state": "printing",
+    "t": 256.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.19764667160371924,
+    "state": "printing",
+    "t": 258.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.20069118736114538,
+    "state": "printing",
+    "t": 259.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.20482185468608574,
+    "state": "printing",
+    "t": 260.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.2090018925368222,
+    "state": "printing",
+    "t": 261.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.21091088620093804,
+    "state": "printing",
+    "t": 263.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.2146136756356455,
+    "state": "printing",
+    "t": 264.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.21736196823829507,
+    "state": "printing",
+    "t": 265.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.21946844400559531,
+    "state": "printing",
+    "t": 266.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.22363202501439974,
+    "state": "printing",
+    "t": 268.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.22572204393976797,
+    "state": "printing",
+    "t": 269.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.22972105652925204,
+    "state": "printing",
+    "t": 270.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.23383526701226034,
+    "state": "printing",
+    "t": 271.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.2368797827696865,
+    "state": "printing",
+    "t": 273.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.2553443594174278,
+    "state": "printing",
+    "t": 274.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.25781288570723276,
+    "state": "printing",
+    "t": 275.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.2612359088290957,
+    "state": "printing",
+    "t": 276.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.2758989549905373,
+    "state": "printing",
+    "t": 278.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.284670451740311,
+    "state": "printing",
+    "t": 279.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.29253682218382293,
+    "state": "printing",
+    "t": 280.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.29651937793137495,
+    "state": "printing",
+    "t": 281.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.3009627252530239,
+    "state": "printing",
+    "t": 283.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.3050933925779643,
+    "state": "printing",
+    "t": 284.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.3100469019995063,
+    "state": "printing",
+    "t": 285.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.31608656298856247,
+    "state": "printing",
+    "t": 286.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.32581255657039415,
+    "state": "printing",
+    "t": 288.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.3488027647494446,
+    "state": "printing",
+    "t": 289.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.37385007816999916,
+    "state": "printing",
+    "t": 290.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.3934172632271867,
+    "state": "printing",
+    "t": 291.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.41008804410433636,
+    "state": "printing",
+    "t": 293.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.4213938945116432,
+    "state": "printing",
+    "t": 294.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.43253517649962975,
+    "state": "printing",
+    "t": 295.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.44384102690693655,
+    "state": "printing",
+    "t": 296.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.4522669299761376,
+    "state": "printing",
+    "t": 298.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.4635892372253764,
+    "state": "printing",
+    "t": 299.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.47199868345264545,
+    "state": "printing",
+    "t": 300.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.4858553443594174,
+    "state": "printing",
+    "t": 301.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5026577799720233,
+    "state": "printing",
+    "t": 303.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5249732576318604,
+    "state": "printing",
+    "t": 304.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 305.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 306.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 308.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 309.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 310.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 311.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 313.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 314.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 315.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 317.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 318.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 0.5474039331852217,
+    "state": "printing",
+    "t": 319.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 320.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 322.0
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 323.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 324.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 325.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 327.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 328.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 329.5
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 330.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 332.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 333.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 334.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 335.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 337.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 338.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 339.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 340.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 342.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 343.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 344.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 345.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "probe_square.gcode",
+    "progress": 1.0,
+    "state": "complete",
+    "t": 347.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 348.3
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 349.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 350.8
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 352.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 353.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 354.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 355.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 357.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 358.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 359.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 360.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 362.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 363.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 364.6
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 365.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 367.1
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 368.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 369.7
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 370.9
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 372.2
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 373.4
+  },
+  {
+    "active_extruder": "extruder2",
+    "exceptions": [],
+    "filename": "",
+    "progress": 0.0,
+    "state": "standby",
+    "t": 374.7
+  }
+]

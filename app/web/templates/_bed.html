@@ -1,0 +1,18 @@
+<section id="bed" hx-get="/partials/bed" hx-trigger="every 5s" hx-swap="outerHTML">
+  <h2>Bed</h2>
+  {% if active %}
+    <p class="ok">Confirmed empty and clean at {{ active.confirmed_at|local }}{% if watching %} · valid{% else %} · can't verify while the printer isn't watched{% endif %}.</p>
+    <form hx-post="/bed/withdraw" hx-target="#bed" hx-swap="outerHTML"><button>Withdraw</button></form>
+  {% else %}
+    {% if ended %}
+      <p>Last confirmation ended: {% if ended.consumed_by_job_id %}used by job #{{ ended.consumed_by_job_id }}{% else %}{{ ended.end_reason }}{% endif %} ({{ ended.ended_at|local }}).</p>
+    {% else %}
+      <p>No confirmation yet.</p>
+    {% endif %}
+    <form hx-post="/bed/confirm" hx-target="#bed" hx-swap="outerHTML">
+      <button {% if blocked %}disabled{% endif %}>Bed is empty and clean</button>
+    </form>
+    {% if blocked %}<p class="hint">Can't confirm now: {{ blocked }}.</p>{% endif %}
+  {% endif %}
+  {% if bed_error %}<p class="error">{{ bed_error }}</p>{% endif %}
+</section>

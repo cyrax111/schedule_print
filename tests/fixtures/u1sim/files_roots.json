@@ -1,0 +1,22 @@
+{
+  "body": {
+    "result": [
+      {
+        "name": "config",
+        "path": "/data/config",
+        "permissions": "r"
+      },
+      {
+        "name": "logs",
+        "path": "/data/logs",
+        "permissions": "r"
+      },
+      {
+        "name": "gcodes",
+        "path": "/data/gcodes",
+        "permissions": "rw"
+      }
+    ]
+  },
+  "status": 200
+}

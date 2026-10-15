@@ -1,0 +1,120 @@
+{
+  "body": {
+    "result": {
+      "chamber_temp": 0.0,
+      "estimated_time": 2577,
+      "filament_colour": "#6F4C2F;#E72F1D;#FFFFFF;#F4C032",
+      "filament_diameter": [
+        1.75,
+        1.75,
+        1.75,
+        1.75
+      ],
+      "filament_flow_ratio": [
+        0.98,
+        0.98,
+        0.98,
+        0.966
+      ],
+      "filament_max_volumetric_speed": [
+        12.0,
+        12.0,
+        12.0,
+        20.0
+      ],
+      "filament_name": "Generic PLA\";\"Generic PLA\";\"Generic PLA\";\"Snapmaker PLA SnapSpeed @U1",
+      "filament_retract_length_toolchange": [
+        10.0,
+        10.0,
+        10.0,
+        5.0
+      ],
+      "filament_total": 4964.8099999999995,
+      "filament_type": "PLA;PLA;PLA;PLA",
+      "filament_used_mm": [
+        0.0,
+        0.0,
+        2035.11,
+        2929.7
+      ],
+      "filament_volume_type": [
+        "standard",
+        "standard",
+        "standard",
+        "standard"
+      ],
+      "filament_weight": [
+        0.0,
+        0.0,
+        6.07,
+        8.74
+      ],
+      "filament_weight_total": 14.81,
+      "filename": "Blade_PLA_42m57s.gcode",
+      "first_layer_bed_temp": 65.0,
+      "first_layer_extr_temp": 220.0,
+      "first_layer_height": 0.25,
+      "gcode_end_byte": 5124409,
+      "gcode_start_byte": 20316,
+      "job_id": "000015",
+      "layer_count": 250,
+      "layer_height": 0.2,
+      "line_width": 0.42,
+      "modified": 1790319303.5453506,
+      "nozzle_diameter": 0.4,
+      "nozzle_diameter_list": [
+        0.4,
+        0.4,
+        0.4,
+        0.4
+      ],
+      "nozzle_temp": [
+        220.0,
+        220.0,
+        220.0,
+        220.0
+      ],
+      "object_height": 50.05,
+      "outer_wall_acceleration": 5000.0,
+      "outer_wall_acceleration_list": [
+        5000.0
+      ],
+      "outer_wall_speed": 200.0,
+      "outer_wall_speed_list": [
+        200.0
+      ],
+      "print_sequence": "by layer",
+      "print_start_time": 1790319350.9997113,
+      "process_flow_support": [
+        "standard"
+      ],
+      "size": 5153528,
+      "slicer": "SnapmakerOrca",
+      "slicer_version": "2.4.0",
+      "thumbnails": [
+        {
+          "height": 96,
+          "relative_path": ".thumbs/Blade_PLA_42m57s-96x96.png",
+          "size": 4249,
+          "width": 96
+        },
+        {
+          "height": 48,
+          "relative_path": ".thumbs/Blade_PLA_42m57s-48x48.png",
+          "size": 1151,
+          "width": 48
+        },
+        {
+          "height": 300,
+          "relative_path": ".thumbs/Blade_PLA_42m57s-300x300.png",
+          "size": 12787,
+          "width": 300
+        }
+      ],
+      "uuid": "21c3c1dc-8f32-413c-acba-b64d6617156a"
+    }
+  },
+  "date": "Wed, 14 Oct 2026 18:56:43 GMT",
+  "received_at": 1792004202.879126,
+  "status": 200
+}

@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+<section>
+  <h1>{{ title }}</h1>
+  <p><strong>{{ file.filename }}</strong> · {{ file.estimated_seconds|duration }}</p>
+  <form method="post" action="{{ action }}">
+    <input type="hidden" name="filename" value="{{ file.filename }}">
+    <label>Start at <input type="datetime-local" name="scheduled_local" value="{{ scheduled_local }}" required></label>
+    <p class="hint">Times are in {{ tz_name }}.</p>
+    {% for colour in file.colours %}
+    <fieldset>
+      <legend><span class="swatch" style="background:#{{ colour.rgb or 'cccccc' }}"></span>
+        Colour {{ colour.logical + 1 }} ({{ colour.material or "unknown material" }})</legend>
+      <select name="head_{{ colour.logical }}">
+        {% for head in heads %}
+        <option value="{{ head.head }}" {% if choice.get(colour.logical) == head.head %}selected{% endif %} {% if not head.present %}disabled{% endif %}>Head {{ head.head + 1 }}: {% if head.present %}{{ head.material or "unknown" }}{% if head.rgb %} #{{ head.rgb }}{% endif %}{% else %}empty{% endif %}</option>
+        {% endfor %}
+      </select>
+    </fieldset>
+    {% endfor %}
+    {% for e in errors %}<p class="error">{{ e }}</p>{% endfor %}
+    {% for w in warnings %}<p class="warning">{{ w }}</p>{% endfor %}
+    {% if warnings %}
+      <input type="hidden" name="confirm_overlap" value="1">
+      <button>Schedule anyway</button>
+    {% else %}
+      <button>Save</button>
+    {% endif %}
+  </form>
+</section>
+{% endblock %}

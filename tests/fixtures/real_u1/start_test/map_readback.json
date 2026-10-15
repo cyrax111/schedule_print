@@ -1,0 +1,222 @@
+{
+  "print_task_config": {
+    "auto_bed_leveling": false,
+    "auto_replenish_filament": true,
+    "end_led_turn_off": true,
+    "end_unload_filament": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "extruder_map_table": [
+      2,
+      1,
+      2,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "extruders_replenished": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "extruders_used": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "filament_color": [
+      4278190080,
+      4294967295,
+      4294269564,
+      4294230066
+    ],
+    "filament_color_multi": [
+      {
+        "alpha": 255,
+        "colors": [
+          "000000"
+        ],
+        "mode": 0,
+        "nums": 1
+      },
+      {
+        "alpha": 255,
+        "colors": [
+          "FFFFFF"
+        ],
+        "mode": 0,
+        "nums": 1
+      },
+      {
+        "alpha": 255,
+        "colors": [
+          "F55A7C"
+        ],
+        "mode": 0,
+        "nums": 1
+      },
+      {
+        "alpha": 255,
+        "colors": [
+          "F4C032"
+        ],
+        "mode": 0,
+        "nums": 1
+      }
+    ],
+    "filament_color_rgba": [
+      "000000FF",
+      "FFFFFFFF",
+      "F55A7CFF",
+      "F4C032FF"
+    ],
+    "filament_edit": [
+      true,
+      true,
+      true,
+      false
+    ],
+    "filament_entangle_detect": true,
+    "filament_entangle_sen": "medium",
+    "filament_exist": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "filament_official": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "filament_sku": [
+      0,
+      0,
+      0,
+      900003
+    ],
+    "filament_soft": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "filament_sub_type": [
+      "",
+      "",
+      "",
+      "SnapSpeed"
+    ],
+    "filament_type": [
+      "PLA",
+      "PETG",
+      "PETG",
+      "PLA"
+    ],
+    "filament_vendor": [
+      "Generic",
+      "Generic",
+      "Generic",
+      "Snapmaker"
+    ],
+    "flow_calib_extruders": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "flow_calibrate": false,
+    "replenish_ignore_color": false,
+    "reprint_info": {
+      "auto_bed_leveling": false,
+      "end_unload_filament": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extruder_map_table": [
+        2,
+        1,
+        2,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "extruders_used": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "flow_calib_extruders": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "flow_calibrate": false,
+      "time_lapse_camera": false
+    },
+    "shaper_calibrate": false,
+    "time_lapse_camera": false
+  }
+}

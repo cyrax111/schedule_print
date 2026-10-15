@@ -1,0 +1,345 @@
+{
+  "body": {
+    "result": [
+      {
+        "modified": 1792007135.276216,
+        "path": "Rubber Plane 2_PLA_27m9s.gcode",
+        "permissions": "rw",
+        "size": 2337673
+      },
+      {
+        "modified": 1791487048.0584168,
+        "path": "Desiccant Container_PETG_6h14m.gcode",
+        "permissions": "rw",
+        "size": 51834776
+      },
+      {
+        "modified": 1791476371.2407312,
+        "path": "iPhone_15_Pro_Max case v3_PETG_1h28m.gcode",
+        "permissions": "rw",
+        "size": 6164887
+      },
+      {
+        "modified": 1791406830.0818253,
+        "path": "Assembly_PETG_11h8m.gcode",
+        "permissions": "rw",
+        "size": 64225115
+      },
+      {
+        "modified": 1791389992.0517797,
+        "path": "BearingPin_PETG_4h18m.gcode",
+        "permissions": "rw",
+        "size": 38894747
+      },
+      {
+        "modified": 1791348591.804403,
+        "path": "MainTop_PETG_11h50m.gcode",
+        "permissions": "rw",
+        "size": 60734784
+      },
+      {
+        "modified": 1791305782.558203,
+        "path": "MainBottom_PETG_11h12m.gcode",
+        "permissions": "rw",
+        "size": 51824124
+      },
+      {
+        "modified": 1791301422.294228,
+        "path": "Clip_PLA_57m1s.gcode",
+        "permissions": "rw",
+        "size": 11221108
+      },
+      {
+        "modified": 1791226096.831303,
+        "path": "Air+Wrap+Diffuser_ABS_8h54m.gcode",
+        "permissions": "rw",
+        "size": 86045846
+      },
+      {
+        "modified": 1791210329.6656895,
+        "path": "Hair dryer diffuser_ABS_3h49m.gcode",
+        "permissions": "rw",
+        "size": 12013493
+      },
+      {
+        "modified": 1791132873.8197443,
+        "path": "Body2_PLA_33m57s.gcode",
+        "permissions": "rw",
+        "size": 3775632
+      },
+      {
+        "modified": 1791124999.935292,
+        "path": "Body1_PLA_34m17s.gcode",
+        "permissions": "rw",
+        "size": 3769527
+      },
+      {
+        "modified": 1790961690.8586116,
+        "path": "Blade_PLA_27m58s.gcode",
+        "permissions": "rw",
+        "size": 3218647
+      },
+      {
+        "modified": 1790958820.0572102,
+        "path": "Main Component_PLA_41m19s.gcode",
+        "permissions": "rw",
+        "size": 3235888
+      },
+      {
+        "modified": 1790881872.195887,
+        "path": "Model+3+Console+Tray_PLA_10h52m.gcode",
+        "permissions": "rw",
+        "size": 31429488
+      },
+      {
+        "modified": 1790830039.7173576,
+        "path": "CoverBottom_2_PETG-CF_4h59m.gcode",
+        "permissions": "rw",
+        "size": 23090463
+      },
+      {
+        "modified": 1790801900.4277701,
+        "path": "CoverBottom_PETG-CF_4h58m.gcode",
+        "permissions": "rw",
+        "size": 22819808
+      },
+      {
+        "modified": 1790780885.2814462,
+        "path": "CoverTop_PETG-CF_5h47m.gcode",
+        "permissions": "rw",
+        "size": 26725484
+      },
+      {
+        "modified": 1790780765.6695993,
+        "path": "CoverBottom_PETG-CF_4h59m.gcode",
+        "permissions": "rw",
+        "size": 22821833
+      },
+      {
+        "modified": 1790780724.3976521,
+        "path": "CoverTop_PETG-CF_5h48m.gcode",
+        "permissions": "rw",
+        "size": 26734747
+      },
+      {
+        "modified": 1790694724.822808,
+        "path": "Caja+Herramientas+U1+Modificado_PLA_3h59m.gcode",
+        "permissions": "rw",
+        "size": 7713731
+      },
+      {
+        "modified": 1790657492.7277923,
+        "path": "spacer_PLA_1h5m.gcode",
+        "permissions": "rw",
+        "size": 602490
+      },
+      {
+        "modified": 1790603896.1193254,
+        "path": "drawer custom_PLA_4h39m.gcode",
+        "permissions": "rw",
+        "size": 8772803
+      },
+      {
+        "modified": 1790500659.680315,
+        "path": "Snapmaker U1 TOOLBOX for BambuLab_PLA_2h27m.gcode",
+        "permissions": "rw",
+        "size": 10610036
+      },
+      {
+        "modified": 1790500590.980389,
+        "path": "Assembly_PLA_5h57m.gcode",
+        "permissions": "rw",
+        "size": 24236051
+      },
+      {
+        "modified": 1790500217.4967914,
+        "path": "case bottom drawer_PLA_4h37m.gcode",
+        "permissions": "rw",
+        "size": 7266228
+      },
+      {
+        "modified": 1790484433.6043415,
+        "path": "Main Component_PLA_41m44s.gcode",
+        "permissions": "rw",
+        "size": 2384895
+      },
+      {
+        "modified": 1790407821.4698699,
+        "path": "Lid_Holder_L_PLA_2h35m.gcode",
+        "permissions": "rw",
+        "size": 9046214
+      },
+      {
+        "modified": 1790365157.340794,
+        "path": "Aircraft_PLA_16m17s.gcode",
+        "permissions": "rw",
+        "size": 592525
+      },
+      {
+        "modified": 1790365047.8887863,
+        "path": "Aircraft_ABS_15m57s.gcode",
+        "permissions": "rw",
+        "size": 596782
+      },
+      {
+        "modified": 1790348733.00305,
+        "path": "Schwertganz_PLA_1h2m.gcode",
+        "permissions": "rw",
+        "size": 3615092
+      },
+      {
+        "modified": 1790348589.8512273,
+        "path": "Schwertganz_PLA_1h16m.gcode",
+        "permissions": "rw",
+        "size": 3612538
+      },
+      {
+        "modified": 1790320381.1491349,
+        "path": "\u5feb\u95e8_PLA_18m11s.gcode",
+        "permissions": "rw",
+        "size": 1012788
+      },
+      {
+        "modified": 1790319303.5453506,
+        "path": "Blade_PLA_42m57s.gcode",
+        "permissions": "rw",
+        "size": 5153528
+      },
+      {
+        "modified": 1790287806.3975222,
+        "path": "obj_1_Assembly_PLA_7h58m.gcode",
+        "permissions": "rw",
+        "size": 58315864
+      },
+      {
+        "modified": 1790269705.910104,
+        "path": "Main Component_PLA_4h4m.gcode",
+        "permissions": "rw",
+        "size": 17000744
+      },
+      {
+        "modified": 1790265227.4214213,
+        "path": "lamp Bookmark part 1_PLA_18m56s.gcode",
+        "permissions": "rw",
+        "size": 1393216
+      },
+      {
+        "modified": 1790262180.6218066,
+        "path": "ToothpastePoopingChihuahua_PLA_1h20m.gcode",
+        "permissions": "rw",
+        "size": 12860037
+      },
+      {
+        "modified": 1790189303.5571492,
+        "path": "Body1_PLA_1h31m.gcode",
+        "permissions": "rw",
+        "size": 7524621
+      },
+      {
+        "modified": 1789933236.618792,
+        "path": "Heart_PLA_3h14m.gcode",
+        "permissions": "rw",
+        "size": 11029663
+      },
+      {
+        "modified": 1789928053.4344413,
+        "path": "Heart_PLA_1h22m.gcode",
+        "permissions": "rw",
+        "size": 8116184
+      },
+      {
+        "modified": 1789909374.321419,
+        "path": "Body1_PLA_3h53m.gcode",
+        "permissions": "rw",
+        "size": 7814600
+      },
+      {
+        "modified": 1789907920.1478376,
+        "path": "pins_PLA_1h1m.gcode",
+        "permissions": "rw",
+        "size": 11641838
+      },
+      {
+        "modified": 1789907840.303816,
+        "path": "over_rear_v2_PLA_1h43m.gcode",
+        "permissions": "rw",
+        "size": 2226868
+      },
+      {
+        "modified": 1789900901.043076,
+        "path": "over_middle_PLA_1h57m.gcode",
+        "permissions": "rw",
+        "size": 3816713
+      },
+      {
+        "modified": 1789896739.94796,
+        "path": "under_rear_PLA_58m32s.gcode",
+        "permissions": "rw",
+        "size": 3655049
+      },
+      {
+        "modified": 1789493064.8473334,
+        "path": "under_middle_PLA_2h14m.gcode",
+        "permissions": "rw",
+        "size": 8927888
+      },
+      {
+        "modified": 1789476847.1886277,
+        "path": "under_front_PLA_5h10m.gcode",
+        "permissions": "rw",
+        "size": 10994012
+      },
+      {
+        "modified": 1789389087.5697088,
+        "path": "Snapmaker U1 lid adapter_PLA_49m38s.gcode",
+        "permissions": "rw",
+        "size": 2126597
+      },
+      {
+        "modified": 1789388797.550243,
+        "path": "Snapmaker U1 lid adapter_PLA_3h42m.gcode",
+        "permissions": "rw",
+        "size": 5030875
+      },
+      {
+        "modified": 1789388711.2150178,
+        "path": "Snapmaker U1 lid adapter_PLA_4h20m.gcode",
+        "permissions": "rw",
+        "size": 3724558
+      },
+      {
+        "modified": 1789310435.3232193,
+        "path": "Cup_PLA_9h10m.gcode",
+        "permissions": "rw",
+        "size": 70297415
+      },
+      {
+        "modified": 1789245957.28964,
+        "path": "MushroomLamp2025-02_PLA_4h13m.gcode",
+        "permissions": "rw",
+        "size": 33235513
+      },
+      {
+        "modified": 1789229666.5792048,
+        "path": "MushroomLamp2025-01A_PLA_4h30m.gcode",
+        "permissions": "rw",
+        "size": 41810504
+      },
+      {
+        "modified": 1789159686.6850352,
+        "path": "Cup_PLA_8h19m.gcode",
+        "permissions": "rw",
+        "size": 69444695
+      },
+      {
+        "modified": 1781608661.9487944,
+        "path": "Dragon_Textured_PLA.gcode",
+        "permissions": "rw",
+        "size": 12503499
+      }
+    ]
+  },
+  "date": "Wed, 14 Oct 2026 20:26:31 GMT",
+  "received_at": 1792009591.0720289,
+  "status": 200
+}

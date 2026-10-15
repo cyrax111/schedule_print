@@ -1,0 +1,121 @@
+{
+  "body": {
+    "result": [
+      {
+        "modified": 1791984880.628835,
+        "path": "schedule-print-test-46e095f5.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984880.4188738,
+        "path": "schedule-print-test-7c723afb.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984880.1476264,
+        "path": "schedule-print-test-43712036.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984824.1181922,
+        "path": "schedule-print-test-746dd331.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984822.5390232,
+        "path": "schedule-print-test-455d28b0.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984822.3011649,
+        "path": "schedule-print-test-9a083e1c.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984822.006224,
+        "path": "schedule-print-test-5dd66ef4.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984820.366138,
+        "path": "schedule-print-test-818ca141.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984820.1729,
+        "path": "schedule-print-test-bfa9bbdd.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984819.918224,
+        "path": "schedule-print-test-50847939.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984818.375224,
+        "path": "schedule-print-test-dd56465f.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984818.210224,
+        "path": "schedule-print-test-504f4e12.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984817.994224,
+        "path": "schedule-print-test-7cebf271.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984807.487224,
+        "path": "schedule-print-test-dcc25e71.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984807.2658083,
+        "path": "schedule-print-test-56d753f0.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984806.8941882,
+        "path": "schedule-print-test-a9208fc9.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984782.579511,
+        "path": "schedule-print-test-ccf067f6.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984782.375821,
+        "path": "schedule-print-test-42e1d508.gcode",
+        "permissions": "rw",
+        "size": 221
+      },
+      {
+        "modified": 1791984782.037382,
+        "path": "schedule-print-test-9ff31ba9.gcode",
+        "permissions": "rw",
+        "size": 221
+      }
+    ]
+  },
+  "status": 200
+}

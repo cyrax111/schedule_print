@@ -1,0 +1,40 @@
+:root { --bg: #fafaf9; --fg: #1c1917; --muted: #78716c; --card: #fff; --line: #e7e5e4;
+        --accent: #2563eb; --bad: #b91c1c; --warn: #a16207; --good: #15803d; }
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #1c1917; --fg: #f5f5f4; --muted: #a8a29e; --card: #292524; --line: #44403c;
+          --accent: #60a5fa; --bad: #f87171; --warn: #facc15; --good: #4ade80; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; font: 16px/1.5 system-ui, sans-serif; background: var(--bg); color: var(--fg); }
+header nav { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; padding: .75rem 1rem;
+             border-bottom: 1px solid var(--line); }
+main { max-width: 52rem; margin: 0 auto; padding: 1rem; }
+section, fieldset { background: var(--card); border: 1px solid var(--line); border-radius: .5rem;
+                    padding: 1rem; margin: 0 0 1rem; }
+a { color: var(--accent); }
+button { font: inherit; padding: .5rem 1rem; border-radius: .375rem; border: 1px solid var(--line);
+         background: var(--accent); color: #fff; cursor: pointer; }
+button.link { background: none; color: var(--accent); border: none; padding: 0; }
+button:disabled { opacity: .5; cursor: not-allowed; }
+form.inline { display: inline; }
+input, select { font: inherit; padding: .4rem; max-width: 100%; }
+table { width: 100%; border-collapse: collapse; }
+td, th { text-align: left; padding: .4rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+.swatch { display: inline-block; width: 1em; height: 1em; border-radius: 50%;
+          border: 1px solid var(--line); vertical-align: -.15em; }
+.heads { list-style: none; padding: 0; }
+.badge { background: var(--bad); color: #fff; border-radius: 1em; padding: 0 .5em; font-size: .8em; }
+.error, .offline { color: var(--bad); }
+.warning { color: var(--warn); }
+.ok { color: var(--good); }
+.hint { color: var(--muted); font-size: .9em; }
+.progress { display: flex; gap: .5rem; align-items: center; }
+.progress progress { flex: 1; height: 1rem; }
+.camera img { display: block; width: 100%; height: auto; margin-top: .75rem; border-radius: .375rem; }
+img.thumb { width: 64px; height: 64px; object-fit: contain; }
+@media (max-width: 40rem) {
+  table, tbody, tr, td { display: block; }
+  th { display: none; }
+  td { border: none; padding: .2rem 0; }
+  tr { border-bottom: 1px solid var(--line); padding: .5rem 0; }
+}

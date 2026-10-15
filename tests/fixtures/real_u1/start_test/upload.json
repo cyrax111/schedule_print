@@ -1,0 +1,15 @@
+{
+  "body": {
+    "action": "create_file",
+    "item": {
+      "modified": 1792066582.529538,
+      "path": "probe_square.gcode",
+      "permissions": "rw",
+      "root": "gcodes",
+      "size": 60765
+    },
+    "print_queued": false,
+    "print_started": false
+  },
+  "status": 201
+}

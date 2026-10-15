@@ -1,0 +1,1154 @@
+{
+  "body": {
+    "result": {
+      "count": 10,
+      "jobs": [
+        {
+          "auxiliary_data": [],
+          "end_time": null,
+          "exists": true,
+          "filament_used": 0.0,
+          "filename": "Rubber Plane 2_PLA_27m9s.gcode",
+          "job_id": "000033",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 1629,
+            "filament_colour": "#F4C032;#00C1AE;#F4E2C1;#ED1C24",
+            "filament_diameter": [
+              1.75,
+              1.75,
+              1.75,
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.966,
+              0.98,
+              0.98,
+              0.98
+            ],
+            "filament_max_volumetric_speed": [
+              20.0,
+              22.0,
+              22.0,
+              22.0
+            ],
+            "filament_name": "Snapmaker PLA SnapSpeed @U1\";\"Bambu PLA Matte @BBL A1(Rubber+Plane+2.3mf)\";\"Bambu PLA Matte @BBL A1(Rubber+Plane+2.3mf)\";\"Bambu PLA Matte @BBL A1(Rubber+Plane+2.3mf)",
+            "filament_retract_length_toolchange": [
+              5.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "filament_total": 3041.14,
+            "filament_type": "PLA;PLA;PLA;PLA",
+            "filament_used_mm": [
+              3041.14,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "filament_volume_type": [
+              "standard",
+              "standard",
+              "standard",
+              "standard"
+            ],
+            "filament_weight": [
+              9.07,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "filament_weight_total": 9.07,
+            "first_layer_bed_temp": 65.0,
+            "first_layer_extr_temp": 220.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 2306765,
+            "gcode_start_byte": 9439,
+            "layer_count": 37,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1792007135.276216,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              220.0,
+              220.0,
+              220.0,
+              220.0
+            ],
+            "object_height": 7.45,
+            "outer_wall_acceleration": 5000.0,
+            "outer_wall_acceleration_list": [
+              5000.0
+            ],
+            "outer_wall_speed": 200.0,
+            "outer_wall_speed_list": [
+              200.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 2337673,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/Rubber Plane 2_PLA_27m9s-96x96.png",
+                "size": 3753,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/Rubber Plane 2_PLA_27m9s-48x48.png",
+                "size": 486,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/Rubber Plane 2_PLA_27m9s-300x300.png",
+                "size": 5195,
+                "width": 300
+              }
+            ],
+            "uuid": "e9e7748d-bcbc-4dfc-8e1b-23895ccf6d63"
+          },
+          "print_duration": 0.0,
+          "start_time": 1792007136.4133294,
+          "status": "in_progress",
+          "total_duration": 0.02303058300003613,
+          "user": "No User"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791509557.4306064,
+          "exists": true,
+          "filament_used": 24165.685110427672,
+          "filename": "Desiccant Container_PETG_6h14m.gcode",
+          "job_id": "000032",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 22424,
+            "filament_colour": "#FFFFFF;#000000",
+            "filament_diameter": [
+              1.75,
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.95,
+              0.98
+            ],
+            "filament_max_volumetric_speed": [
+              12.0,
+              12.0
+            ],
+            "filament_name": "Generic PETG\";\"Generic PLA",
+            "filament_retract_length_toolchange": [
+              10.0,
+              10.0
+            ],
+            "filament_total": 24169.19,
+            "filament_type": "PETG;PLA",
+            "filament_used_mm": [
+              24169.19,
+              0.0
+            ],
+            "filament_volume_type": [
+              "standard",
+              "standard"
+            ],
+            "filament_weight": [
+              72.67,
+              0.0
+            ],
+            "filament_weight_total": 72.67,
+            "first_layer_bed_temp": 80.0,
+            "first_layer_extr_temp": 255.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 51806906,
+            "gcode_start_byte": 21953,
+            "layer_count": 382,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1791487048.0584168,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              255.0,
+              220.0
+            ],
+            "object_height": 76.45,
+            "outer_wall_acceleration": 5000.0,
+            "outer_wall_acceleration_list": [
+              5000.0
+            ],
+            "outer_wall_speed": 100.0,
+            "outer_wall_speed_list": [
+              100.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 51834776,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/Desiccant Container_PETG_6h14m-96x96.png",
+                "size": 6788,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/Desiccant Container_PETG_6h14m-48x48.png",
+                "size": 987,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/Desiccant Container_PETG_6h14m-300x300.png",
+                "size": 13746,
+                "width": 300
+              }
+            ],
+            "uuid": "c9d10fa4-f413-4c42-a5b7-b61db83c895d"
+          },
+          "print_duration": 22265.520904783043,
+          "start_time": 1791487050.3512397,
+          "status": "completed",
+          "total_duration": 22506.901141315,
+          "user": "No User"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791481842.3869333,
+          "exists": true,
+          "filament_used": 12415.02686998737,
+          "filename": "iPhone_15_Pro_Max case v3_PETG_1h28m.gcode",
+          "job_id": "000031",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 5300,
+            "filament_colour": "#F55A7C",
+            "filament_diameter": [
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.95
+            ],
+            "filament_max_volumetric_speed": [
+              10.0
+            ],
+            "filament_name": "Generic PETG Edited",
+            "filament_retract_length_toolchange": [
+              10.0
+            ],
+            "filament_total": 12418.53,
+            "filament_type": "PETG",
+            "filament_used_mm": [
+              12418.53
+            ],
+            "filament_volume_type": [
+              "standard"
+            ],
+            "filament_weight": [
+              37.34
+            ],
+            "filament_weight_total": 37.34,
+            "first_layer_bed_temp": 75.0,
+            "first_layer_extr_temp": 255.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 6137195,
+            "gcode_start_byte": 14073,
+            "layer_count": 69,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1791476371.2407312,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              255.0
+            ],
+            "object_height": 13.85,
+            "outer_wall_acceleration": 5000.0,
+            "outer_wall_acceleration_list": [
+              5000.0
+            ],
+            "outer_wall_speed": 100.0,
+            "outer_wall_speed_list": [
+              100.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 6164887,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/iPhone_15_Pro_Max case v3_PETG_1h28m-96x96.png",
+                "size": 5097,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/iPhone_15_Pro_Max case v3_PETG_1h28m-48x48.png",
+                "size": 920,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/iPhone_15_Pro_Max case v3_PETG_1h28m-300x300.png",
+                "size": 8734,
+                "width": 300
+              }
+            ],
+            "uuid": "08c60c21-616e-43b5-a167-beeaa51f7fff"
+          },
+          "print_duration": 5252.593606338021,
+          "start_time": 1791476372.390478,
+          "status": "completed",
+          "total_duration": 5469.974288900034,
+          "user": "No User"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791473422.329465,
+          "exists": true,
+          "filament_used": 70490.1309341084,
+          "filename": "Assembly_PETG_11h8m.gcode",
+          "job_id": "000030",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 40056,
+            "filament_colour": "#F55A7C",
+            "filament_diameter": [
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.95
+            ],
+            "filament_max_volumetric_speed": [
+              12.0
+            ],
+            "filament_name": "Generic PETG",
+            "filament_retract_length_toolchange": [
+              10.0
+            ],
+            "filament_total": 70294.16,
+            "filament_type": "PETG",
+            "filament_used_mm": [
+              70294.16
+            ],
+            "filament_volume_type": [
+              "standard"
+            ],
+            "filament_weight": [
+              211.35
+            ],
+            "filament_weight_total": 211.35,
+            "first_layer_bed_temp": 80.0,
+            "first_layer_extr_temp": 255.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 64197704,
+            "gcode_start_byte": 9662,
+            "layer_count": 375,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1791406830.0818253,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              255.0
+            ],
+            "object_height": 75.05,
+            "outer_wall_acceleration": 5000.0,
+            "outer_wall_acceleration_list": [
+              5000.0
+            ],
+            "outer_wall_speed": 200.0,
+            "outer_wall_speed_list": [
+              200.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 64225115,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/Assembly_PETG_11h8m-96x96.png",
+                "size": 5167,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/Assembly_PETG_11h8m-48x48.png",
+                "size": 704,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/Assembly_PETG_11h8m-300x300.png",
+                "size": 5766,
+                "width": 300
+              }
+            ],
+            "uuid": "df3414a3-b274-4549-b1ba-e6c0e5c2d992"
+          },
+          "print_duration": 40271.577516285935,
+          "start_time": 1791433014.1254356,
+          "status": "completed",
+          "total_duration": 40408.14706164296,
+          "user": "No User"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791405216.5404656,
+          "exists": true,
+          "filament_used": 30552.687550342118,
+          "filename": "BearingPin_PETG_4h18m.gcode",
+          "job_id": "00002F",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 15505,
+            "filament_colour": "#FFFFFF;#F4C032;#000000",
+            "filament_diameter": [
+              1.75,
+              1.75,
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.95,
+              0.966,
+              0.98
+            ],
+            "filament_max_volumetric_speed": [
+              12.0,
+              20.0,
+              12.0
+            ],
+            "filament_name": "Generic PETG\";\"Snapmaker PLA SnapSpeed @U1\";\"Generic PLA",
+            "filament_retract_length_toolchange": [
+              10.0,
+              5.0,
+              10.0
+            ],
+            "filament_total": 30556.17,
+            "filament_type": "PETG;PLA;PLA",
+            "filament_used_mm": [
+              30556.17,
+              0.0,
+              0.0
+            ],
+            "filament_volume_type": [
+              "standard",
+              "standard",
+              "standard"
+            ],
+            "filament_weight": [
+              91.87,
+              0.0,
+              0.0
+            ],
+            "filament_weight_total": 91.87,
+            "first_layer_bed_temp": 80.0,
+            "first_layer_extr_temp": 255.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 38866045,
+            "gcode_start_byte": 37898,
+            "layer_count": 93,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1791389992.0517797,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              255.0,
+              220.0,
+              220.0
+            ],
+            "object_height": 18.65,
+            "outer_wall_acceleration": 5000.0,
+            "outer_wall_acceleration_list": [
+              5000.0
+            ],
+            "outer_wall_speed": 200.0,
+            "outer_wall_speed_list": [
+              200.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 38894747,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/BearingPin_PETG_4h18m-96x96.png",
+                "size": 9911,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/BearingPin_PETG_4h18m-48x48.png",
+                "size": 1348,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/BearingPin_PETG_4h18m-300x300.png",
+                "size": 17176,
+                "width": 300
+              }
+            ],
+            "uuid": "5ae35d50-0fda-49d0-8c6f-09d8ae6bdd58"
+          },
+          "print_duration": 14947.201847543998,
+          "start_time": 1791389993.275355,
+          "status": "completed",
+          "total_duration": 15223.255725716997,
+          "user": "No User"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791389760.7432559,
+          "exists": true,
+          "filament_used": 111661.5761994017,
+          "filename": "MainTop_PETG_11h50m.gcode",
+          "job_id": "00002E",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 42599,
+            "filament_colour": "#FFFFFF;#F4C032;#000000",
+            "filament_diameter": [
+              1.75,
+              1.75,
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.95,
+              0.966,
+              0.98
+            ],
+            "filament_max_volumetric_speed": [
+              12.0,
+              20.0,
+              12.0
+            ],
+            "filament_name": "Generic PETG\";\"Snapmaker PLA SnapSpeed @U1\";\"Generic PLA",
+            "filament_retract_length_toolchange": [
+              10.0,
+              5.0,
+              10.0
+            ],
+            "filament_total": 111665.08,
+            "filament_type": "PETG;PLA;PLA",
+            "filament_used_mm": [
+              111665.08,
+              0.0,
+              0.0
+            ],
+            "filament_volume_type": [
+              "standard",
+              "standard",
+              "standard"
+            ],
+            "filament_weight": [
+              335.73,
+              0.0,
+              0.0
+            ],
+            "filament_weight_total": 335.73,
+            "first_layer_bed_temp": 80.0,
+            "first_layer_extr_temp": 255.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 60706102,
+            "gcode_start_byte": 5816,
+            "layer_count": 1225,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1791348591.804403,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              255.0,
+              220.0,
+              220.0
+            ],
+            "object_height": 245.05,
+            "outer_wall_acceleration": 5000.0,
+            "outer_wall_acceleration_list": [
+              5000.0
+            ],
+            "outer_wall_speed": 200.0,
+            "outer_wall_speed_list": [
+              200.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 60734784,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/MainTop_PETG_11h50m-96x96.png",
+                "size": 1484,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/MainTop_PETG_11h50m-48x48.png",
+                "size": 320,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/MainTop_PETG_11h50m-300x300.png",
+                "size": 3356,
+                "width": 300
+              }
+            ],
+            "uuid": "74adf9e1-586a-42c2-9d95-10d9272750d9"
+          },
+          "print_duration": 40925.69279914,
+          "start_time": 1791348593.1090815,
+          "status": "completed",
+          "total_duration": 41167.63221054699,
+          "user": "No User"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791345517.147421,
+          "exists": true,
+          "filament_used": 119829.13041415383,
+          "filename": "MainBottom_PETG_11h12m.gcode",
+          "job_id": "00002D",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 40309,
+            "filament_colour": "#FFFFFF;#F4C032;#000000",
+            "filament_diameter": [
+              1.75,
+              1.75,
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.95,
+              0.966,
+              0.98
+            ],
+            "filament_max_volumetric_speed": [
+              12.0,
+              20.0,
+              12.0
+            ],
+            "filament_name": "Generic PETG\";\"Snapmaker PLA SnapSpeed @U1\";\"Generic PLA",
+            "filament_retract_length_toolchange": [
+              10.0,
+              5.0,
+              10.0
+            ],
+            "filament_total": 119633.28,
+            "filament_type": "PETG;PLA;PLA",
+            "filament_used_mm": [
+              119633.28,
+              0.0,
+              0.0
+            ],
+            "filament_volume_type": [
+              "standard",
+              "standard",
+              "standard"
+            ],
+            "filament_weight": [
+              359.69,
+              0.0,
+              0.0
+            ],
+            "filament_weight_total": 359.69,
+            "first_layer_bed_temp": 80.0,
+            "first_layer_extr_temp": 255.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 51795442,
+            "gcode_start_byte": 6824,
+            "layer_count": 1225,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1791305782.558203,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              255.0,
+              220.0,
+              220.0
+            ],
+            "object_height": 245.05,
+            "outer_wall_acceleration": 5000.0,
+            "outer_wall_acceleration_list": [
+              5000.0
+            ],
+            "outer_wall_speed": 200.0,
+            "outer_wall_speed_list": [
+              200.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 51824124,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/MainBottom_PETG_11h12m-96x96.png",
+                "size": 2277,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/MainBottom_PETG_11h12m-48x48.png",
+                "size": 350,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/MainBottom_PETG_11h12m-300x300.png",
+                "size": 4056,
+                "width": 300
+              }
+            ],
+            "uuid": "96c6e547-2756-4b60-87b5-0ec9affc4790"
+          },
+          "print_duration": 39598.41484484001,
+          "start_time": 1791305783.72407,
+          "status": "completed",
+          "total_duration": 39733.30821744597,
+          "user": "No User"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791304618.2975824,
+          "exists": true,
+          "filament_used": 5872.292890000215,
+          "filename": "Clip_PLA_57m1s.gcode",
+          "job_id": "00002C",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 3421,
+            "filament_colour": "#F4C032;#00C1AE;#F4E2C1;#ED1C24",
+            "filament_diameter": [
+              1.75,
+              1.75,
+              1.75,
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.966,
+              0.98,
+              0.98,
+              0.98
+            ],
+            "filament_max_volumetric_speed": [
+              20.0,
+              21.0,
+              21.0,
+              21.0
+            ],
+            "filament_name": "Snapmaker PLA SnapSpeed @U1\";\"Bambu PLA Basic @BBL A1(pack+10+filament+clip.3mf)\";\"Bambu PLA Basic @BBL A1(pack+10+filament+clip.3mf)\";\"Bambu PLA Basic @BBL A1(pack+10+filament+clip.3mf)",
+            "filament_retract_length_toolchange": [
+              5.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "filament_total": 5875.49,
+            "filament_type": "PLA;PLA;PLA;PLA",
+            "filament_used_mm": [
+              5875.49,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "filament_volume_type": [
+              "standard",
+              "standard",
+              "standard",
+              "standard"
+            ],
+            "filament_weight": [
+              17.52,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "filament_weight_total": 17.52,
+            "first_layer_bed_temp": 65.0,
+            "first_layer_extr_temp": 220.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 11190159,
+            "gcode_start_byte": 14544,
+            "layer_count": 50,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1791301422.294228,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              220.0,
+              220.0,
+              220.0,
+              220.0
+            ],
+            "object_height": 10.05,
+            "outer_wall_acceleration": 5000.0,
+            "outer_wall_acceleration_list": [
+              5000.0
+            ],
+            "outer_wall_speed": 200.0,
+            "outer_wall_speed_list": [
+              200.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 11221108,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/Clip_PLA_57m1s-96x96.png",
+                "size": 7890,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/Clip_PLA_57m1s-48x48.png",
+                "size": 943,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/Clip_PLA_57m1s-300x300.png",
+                "size": 7201,
+                "width": 300
+              }
+            ],
+            "uuid": "5c7aafed-ce41-4a68-8399-b9d7a929c54b"
+          },
+          "print_duration": 2972.928822001035,
+          "start_time": 1791301423.6793652,
+          "status": "completed",
+          "total_duration": 3194.6297021490172,
+          "user": "No User"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791292525.3256903,
+          "exists": true,
+          "filament_used": 27859.283439812192,
+          "filename": "Air+Wrap+Diffuser_ABS_8h54m.gcode",
+          "job_id": "00002B",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 32017,
+            "filament_colour": "#898989;#000000;#F4E2C1;#ED1C24",
+            "filament_diameter": [
+              1.75,
+              1.75,
+              1.75,
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.95,
+              0.95,
+              0.95,
+              0.95
+            ],
+            "filament_max_volumetric_speed": [
+              15.0,
+              15.0,
+              15.0,
+              15.0
+            ],
+            "filament_name": "Generic ABS\";\"Generic ABS\";\"Generic ABS\";\"Generic ABS",
+            "filament_retract_length_toolchange": [
+              10.0,
+              10.0,
+              10.0,
+              10.0
+            ],
+            "filament_total": 27862.79,
+            "filament_type": "ABS;ABS;ABS;ABS",
+            "filament_used_mm": [
+              0.0,
+              27862.79,
+              0.0,
+              0.0
+            ],
+            "filament_volume_type": [
+              "standard",
+              "standard",
+              "standard",
+              "standard"
+            ],
+            "filament_weight": [
+              0.0,
+              69.7,
+              0.0,
+              0.0
+            ],
+            "filament_weight_total": 69.7,
+            "first_layer_bed_temp": 90.0,
+            "first_layer_extr_temp": 270.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 86016861,
+            "gcode_start_byte": 20497,
+            "layer_count": 145,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1791226096.831303,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              270.0,
+              270.0,
+              270.0,
+              270.0
+            ],
+            "object_height": 29.05,
+            "outer_wall_acceleration": 2000.0,
+            "outer_wall_acceleration_list": [
+              2000.0
+            ],
+            "outer_wall_speed": 60.0,
+            "outer_wall_speed_list": [
+              60.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 86045846,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/Air+Wrap+Diffuser_ABS_8h54m-96x96.png",
+                "size": 4172,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/Air+Wrap+Diffuser_ABS_8h54m-48x48.png",
+                "size": 856,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/Air+Wrap+Diffuser_ABS_8h54m-300x300.png",
+                "size": 13415,
+                "width": 300
+              }
+            ],
+            "uuid": "0229e2be-923f-4950-92cb-7ef916ae266e"
+          },
+          "print_duration": 31375.975195836043,
+          "start_time": 1791260920.5991228,
+          "status": "completed",
+          "total_duration": 31604.591193403,
+          "user": "No User"
+        },
+        {
+          "auxiliary_data": [],
+          "end_time": 1791224582.8075292,
+          "exists": true,
+          "filament_used": 31805.606069294416,
+          "filename": "Hair dryer diffuser_ABS_3h49m.gcode",
+          "job_id": "00002A",
+          "metadata": {
+            "chamber_temp": 0.0,
+            "estimated_time": 13717,
+            "filament_colour": "#898989;#00C1AE;#F4E2C1;#ED1C24",
+            "filament_diameter": [
+              1.75,
+              1.75,
+              1.75,
+              1.75
+            ],
+            "filament_flow_ratio": [
+              0.95,
+              0.95,
+              0.95,
+              0.95
+            ],
+            "filament_max_volumetric_speed": [
+              15.0,
+              15.0,
+              15.0,
+              15.0
+            ],
+            "filament_name": "Generic ABS\";\"Generic ABS\";\"Generic ABS\";\"Generic ABS",
+            "filament_retract_length_toolchange": [
+              10.0,
+              10.0,
+              10.0,
+              10.0
+            ],
+            "filament_total": 31573.11,
+            "filament_type": "ABS;ABS;ABS;ABS",
+            "filament_used_mm": [
+              31573.11,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "filament_volume_type": [
+              "standard",
+              "standard",
+              "standard",
+              "standard"
+            ],
+            "filament_weight": [
+              78.98,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "filament_weight_total": 78.98,
+            "first_layer_bed_temp": 90.0,
+            "first_layer_extr_temp": 270.0,
+            "first_layer_height": 0.25,
+            "gcode_end_byte": 11984517,
+            "gcode_start_byte": 9223,
+            "layer_count": 424,
+            "layer_height": 0.2,
+            "line_width": 0.42,
+            "modified": 1791210329.6656895,
+            "nozzle_diameter": 0.4,
+            "nozzle_diameter_list": [
+              0.4,
+              0.4,
+              0.4,
+              0.4
+            ],
+            "nozzle_temp": [
+              270.0,
+              270.0,
+              270.0,
+              270.0
+            ],
+            "object_height": 84.85,
+            "outer_wall_acceleration": 2000.0,
+            "outer_wall_acceleration_list": [
+              2000.0
+            ],
+            "outer_wall_speed": 60.0,
+            "outer_wall_speed_list": [
+              60.0
+            ],
+            "print_sequence": "by layer",
+            "process_flow_support": [
+              "standard"
+            ],
+            "size": 12013493,
+            "slicer": "SnapmakerOrca",
+            "slicer_version": "2.4.0",
+            "thumbnails": [
+              {
+                "height": 96,
+                "relative_path": ".thumbs/Hair dryer diffuser_ABS_3h49m-96x96.png",
+                "size": 3554,
+                "width": 96
+              },
+              {
+                "height": 48,
+                "relative_path": ".thumbs/Hair dryer diffuser_ABS_3h49m-48x48.png",
+                "size": 877,
+                "width": 48
+              },
+              {
+                "height": 300,
+                "relative_path": ".thumbs/Hair dryer diffuser_ABS_3h49m-300x300.png",
+                "size": 5251,
+                "width": 300
+              }
+            ],
+            "uuid": "cfbfb294-072e-46b7-ab38-197b10a572ee"
+          },
+          "print_duration": 14112.355868479004,
+          "start_time": 1791210330.789449,
+          "status": "completed",
+          "total_duration": 14252.016853878973,
+          "user": "No User"
+        }
+      ]
+    }
+  },
+  "date": "Wed, 14 Oct 2026 19:49:56 GMT",
+  "received_at": 1792007396.595407,
+  "status": 200
+}

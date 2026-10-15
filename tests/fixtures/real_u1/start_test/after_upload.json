@@ -1,0 +1,15 @@
+{
+  "print_stats": {
+    "exception": {},
+    "filament_used": 0.0,
+    "filename": "",
+    "info": {
+      "current_layer": null,
+      "total_layer": null
+    },
+    "message": "",
+    "print_duration": 0.0,
+    "state": "standby",
+    "total_duration": 0.0
+  }
+}
